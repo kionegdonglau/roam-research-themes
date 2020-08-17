@@ -1,5 +1,5 @@
 /* Custom data tags */
-span.rm-page-ref[data-tag="Tweet"] {
+span.rm-page-ref[data-tag="永久笔记"] {
   background: #81D5ED !important;
   color: white !important;
   padding: 3px 7px;
@@ -7,7 +7,7 @@ span.rm-page-ref[data-tag="Tweet"] {
   font-weight: 500;
 }
 
-span.rm-page-ref[data-tag="Literature Notes"] {
+span.rm-page-ref[data-tag="Reading list"] {
   background: #9769FF !important;
   color: white !important;
   padding: 3px 7px;
